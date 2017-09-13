@@ -1,0 +1,13 @@
+{
+  "name": "kdu",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:willin/kdu.git",
+  "author": "Willin Wang <willin@willin.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "eslint-config-dwing": "^1.1.0",
+    "koa": "^2.3.0"
+  }
+}
